@@ -1,6 +1,6 @@
 // Given an array of positive numbers, the task is to find the number of possible contiguous
 // subarrays having product less than a given number k.
-
+ 
 class Solution {
 public:
     int countSubArrayProductLessThanK(const vector<int>& arr, int n, long long k) {
